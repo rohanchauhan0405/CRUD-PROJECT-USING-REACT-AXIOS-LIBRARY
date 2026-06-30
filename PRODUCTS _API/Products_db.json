@@ -1,0 +1,54 @@
+{
+  "Products": [
+    {
+      "title": "HairOil",
+      "Category": "Skincare",
+      "Price": 12000,
+      "Stock": 300,
+      "id": "AsmQbw-f5cg"
+    },
+    {
+      "title": "T-Shirt",
+      "Category": "Clothings",
+      "Price": 2000,
+      "Stock": 150,
+      "id": "hQQYpMa_f78"
+    },
+    {
+      "title": "FaceWash",
+      "Category": "Skincare",
+      "Price": 1500,
+      "Stock": 180,
+      "id": "ECd2vMDK108"
+    },
+    {
+      "title": "School Bags",
+      "Category": "Bags",
+      "Price": 2000,
+      "Stock": 100,
+      "id": "ia2pK7BbC-A"
+    },
+    {
+      "title": "Body Spray",
+      "Category": "Skincare",
+      "Price": "4000",
+      "Stock": 500,
+      "id": "4hbrNPTsnYk"
+    },
+    {
+      "title": "Brush",
+      "Category": "Daily needs",
+      "Price": "20",
+      "Stock": "100",
+      "id": "xn9mADLVx4c"
+    },
+    {
+      "title": "Apple",
+      "Category": "Fruits",
+      "Price": "500",
+      "Stock": "1150",
+      "id": "AkpHytYGCvY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

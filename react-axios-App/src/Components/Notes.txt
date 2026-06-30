@@ -1,0 +1,11 @@
+Axios is basically Javascript libarary which is used to call an api
+
+useReducer is a React Hook used for Managing Complex State Logic using a 
+reducer function and Dispatched Actions.it retunrs the current state and a dispatch function.
+
+useActionState:
+
+useActionState is a react 19 Hook that changes the state of form actions.
+and async operations by updating state based on the action's return value.
+
+It returns state,an action handler,and a Pending Status.
